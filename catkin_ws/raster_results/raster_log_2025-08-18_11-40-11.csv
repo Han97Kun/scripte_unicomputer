@@ -1,0 +1,2 @@
+x,y,z,tilt_axis,tilt_angle_deg,reachable,fraction,radial_distance,time_start,time_end
+0.325,0.0,0.1,x,0.0,True,1.0,0.095,2025-08-18 11:40:13,2025-08-18 11:40:17

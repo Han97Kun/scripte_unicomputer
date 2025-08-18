@@ -1,0 +1,6 @@
+<launch>
+  <node name="test_move_node" pkg="franka_example_controllers" type="test_move_node" output="screen">
+    <param name="joint_move_dist" value="1" />
+    <param name="command_topic" value="/joint_position_example_controller/joint_command" />
+  </node>
+</launch>
