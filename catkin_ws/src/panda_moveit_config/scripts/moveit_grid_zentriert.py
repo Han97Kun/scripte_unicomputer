@@ -11,7 +11,7 @@ from datetime import datetime
 #import controller_manager_msgs.srv
 import actionlib
 import actionlib_msgs.msg
-from tf.transformations import quaternion_from_euler, quaternion_matrix, quaternion_multiply
+from tf.transformations import quaternion_from_euler, quaternion_matrix, quaternion_multiply, quaternion_about_axis
 import numpy as np
 
 from shape_msgs.msg import SolidPrimitive
@@ -26,6 +26,13 @@ t = 1  #verweildauer der sonde am punkt
 
 #eingie links: https://projects.saifsidhik.page/franka_ros_interface/DOC.html#module-franka_moveit
 
+
+# TODO
+    # der 0 gradwinkel ist kein 0 grad winkel-> üpasse das an in den CSV datein 
+    # constraints für go() und die großen bewegung, da dort constraintsg berücksichtigt werden, bei cartesian path nur die sachen im der umgebung wie leg und co als kollisionsobjecte und collision ausgetsellt
+    # Zeichnung : abstan und winkelerklären, somit haben wir die winkel angenähert
+    # constraints, walö und co checken. evtr für panda link 1 eine maximale +-20 grad pro bewegung veranlassen
+    #Abstandsberechnung aktialöisieren, das stimmt altuell bei den winkeln nicht 
 
 class Context:
     def __init__(self, move_group_name):
@@ -139,7 +146,7 @@ def setup_environment(scene, commander):
     wall_pose = PoseStamped()
     wall_pose.header.frame_id = commander.get_planning_frame()
     wall_pose.pose.orientation.w = 1.0
-    wall_pose.pose.position.x = -1
+    wall_pose.pose.position.x = -0.5
     wall_pose.pose.position.z = 0.5
     scene.add_box("wall", wall_pose, (0.005, 2.0, 2.0))
 
@@ -162,11 +169,44 @@ def setup_environment(scene, commander):
     box_pose.pose.orientation.w = 1.0
     box_pose.pose.position.x = 0.35  #0.325:  0.3 funktioniert mit der höhe 0.2=z nicht 
     box_pose.pose.position.z = 0.005
-    scene.add_box("small_box", box_pose, (0.05, 0.03, 0.01))
+    scene.add_box("small_box", box_pose, (0.02, 0.02, 0.01))
 
     rospy.sleep(2)
     return box_pose
 
+def quat_tilt_towards_emitter(base_quat, probe_tip, box_pose, tilt_angle_rad):
+    """
+    Kippe die (nach unten zeigende) Basis-Orientierung um 'tilt_angle_rad'
+    Richtung Strahler (box_pose). Dabei nehmen wir an, dass die Sonde
+    entlang der +Y-Achse des Endeffektors zeigt (siehe compute_effector_pose_for_probe_tip).
+    """
+    # Richtungsvektor in XY vom Rasterpunkt zum Strahlerzentrum
+    d = np.array([
+        box_pose.pose.position.x - probe_tip[0],
+        box_pose.pose.position.y - probe_tip[1],
+        0.0
+    ])
+
+    # Wenn wir genau über dem Zentrum stehen oder Winkel ~0: keine Kippung
+    d_norm = np.linalg.norm(d[:2])
+    if d_norm < 1e-9 or abs(tilt_angle_rad) < 1e-9:
+        return base_quat
+
+ 
+    d /= d_norm  # Einheitsvektor in XY
+    # "Nach unten" im Weltkoordinatensystem
+    down = np.array([0.0, 0.0, -1.0])
+
+    # Kippachse = Kreuzprodukt (down × d) → kippt 'down' in Richtung d
+    axis = np.cross(down, d)
+    axis_norm = np.linalg.norm(axis)
+    if axis_norm < 1e-9:
+        return base_quat
+    axis /= axis_norm
+
+    # Kippung in Weltachsen, dann Basis-Orientierung
+    tilt_quat = quaternion_about_axis(tilt_angle_rad, axis)
+    return quaternion_multiply(tilt_quat, base_quat)
 
 def raster_scan(ctx, config, marker_pub, box_pose, probe_length=0.1):
     # speicherpfad CSV-Datei
@@ -190,7 +230,7 @@ def raster_scan(ctx, config, marker_pub, box_pose, probe_length=0.1):
     # Marker
     marker_pub = rospy.Publisher('raster_points_marker', Marker, queue_size=10)
     probe_marker = Marker(type=Marker.SPHERE_LIST, action=Marker.ADD)
-    probe_marker.scale.x = probe_marker.scale.y = probe_marker.scale.z = 0.02
+    probe_marker.scale.x = probe_marker.scale.y = probe_marker.scale.z = 0.005
     probe_marker.color.b = 1.0
     probe_marker.color.a = 1.0
     probe_marker.header.frame_id = "panda_link0"
@@ -215,15 +255,23 @@ def raster_scan(ctx, config, marker_pub, box_pose, probe_length=0.1):
             for j in range(raster_size):
                 idx += 1
                 probe_tip = np.array([x_start + i * delta, y_start + j * delta, z]) #target location für die Sondenspitze
-                tilt_axis = 'x' if (idx % 2 == 1) else 'x' #'y'# rest 1 ungerade, rest 0 gerade
+                #tilt_axis = 'x' if (idx % 2 == 1) else 'x' #'y'# rest 1 ungerade, rest 0 gerade
+                
+                d_xy = np.array([
+                    box_pose.pose.position.x - probe_tip[0],
+                    box_pose.pose.position.y - probe_tip[1]
+                ])
+                azimuth_deg = float(np.degrees(np.arctan2(d_xy[1],d_xy[0])))
 
                 for tilt_angle in tilt_angles_rad:
-                    if tilt_axis == 'x':
-                        tilt_quat = quaternion_from_euler(tilt_angle, 0, 0) #rotation um x
-                    else:
-                        tilt_quat = quaternion_from_euler(0, tilt_angle, 0) #rotation um y
-                    quat = quaternion_multiply(tilt_quat, base_quat) #ganze rotation basierend auf tilt und anfangspose/rotation
+                    quat = quat_tilt_towards_emitter(base_quat, probe_tip,box_pose, tilt_angle)
                     pose_goal = compute_effector_pose_for_probe_tip(probe_tip, quat, probe_length)
+                    #if tilt_axis == 'x':
+                        #tilt_quat = quaternion_from_euler(tilt_angle, 0, 0) #rotation um x
+                    #else:
+                        #tilt_quat = quaternion_from_euler(0, tilt_angle, 0) #rotation um y
+                    #quat = quaternion_multiply(tilt_quat, base_quat) #ganze rotation basierend auf tilt und anfangspose/rotation
+                    #pose_goal = compute_effector_pose_for_probe_tip(probe_tip, quat, probe_length)
 
                     # conbstraints setzen und planen
                     commander.set_path_constraints(ctx.build_constraints(quat))
@@ -259,14 +307,14 @@ def raster_scan(ctx, config, marker_pub, box_pose, probe_length=0.1):
                             writer = csv.writer(file)
                             writer.writerow([
                                 probe_tip[0], probe_tip[1], probe_tip[2],
-                                tilt_axis, tilt_deg,
+                                round(azimuth_deg,1), tilt_deg,
                                  fraction > 0.8, round(fraction, 2),
                                 round(radial_dist, 4),
                                 start_time, end_time
                             ])
 
 
-                        rospy.loginfo(f"[✓] Rasterpunkt {idx}: x={probe_tip[0]:.3f}, y={probe_tip[1]:.3f}, z={probe_tip[2]:.3f}, Tilt-{tilt_axis}: {tilt_deg:.1f}° (fraction={fraction:.2f})")
+                        rospy.loginfo(f"[✓] Rasterpunkt {idx}: x={probe_tip[0]:.3f}, y={probe_tip[1]:.3f}, z={probe_tip[2]:.3f}, Tilt-{round(azimuth_deg,1)}: {tilt_deg:.1f}° (fraction={fraction:.2f})")
                         probe_marker.points.append(Point(*probe_tip))
                         marker_pub.publish(probe_marker)
                     else:
@@ -287,7 +335,7 @@ def raster_scan(ctx, config, marker_pub, box_pose, probe_length=0.1):
                             writer = csv.writer(file)
                             writer.writerow([
                                 probe_tip[0], probe_tip[1], probe_tip[2],
-                                tilt_axis, tilt_deg,
+                                round(azimuth_deg,1), tilt_deg,
                                 False, round(fraction, 2),
                                 round(radial_dist, 4),
                                 "", ""
@@ -323,11 +371,15 @@ def raster_menu(ctx):
         while repeat and not rospy.is_shutdown():
             if raster_choice == '1':
                 config = {
-                    "raster_size": 4, #4 ist maximum für 4/0.05/(0.2,0,4)/(0/10)
-                    "delta": 0.05,
-                    "heights": [0.2, 0.4], # nhöhe von 0.2 ist minimum requirement
-                    "tilt_angles_deg": [0, 10]
+                    "raster_size": 16, #4 ist maximum für 4/0.05/(0.2,0,4)/(0/10)
+                    "delta": 0.001,
+                    "heights": [0.2, 0.205], # nhöhe von 0.2 ist minimum requirement
+                    "tilt_angles_deg": [0]
                 }
+                # 16/0.005/(0.2,0.205)/(0,10,0) -> 7.5 x 7.5cm 
+                # 4/0.005/(0.2,0.205/(0,10,0))
+                # 4,/0.02/(0.2,0,4)/(0,10,0) 
+                # 4/0.05/(0.2,0,4)/(0,10)
 
             if raster_choice == '2':
                 config = {

@@ -5,6 +5,8 @@ import pytesseract
 from PIL import Image
 import mss
 
+
+#OBS muss oben in die linke ecke plaziert werden, mit der usprungsgröße wenn ich es lffne, dann ist die REGIOn richtig ausgerichtet 
 # Tesseract: unter Ubuntu meist /usr/bin/tesseract
 pytesseract.pytesseract.tesseract_cmd = os.environ.get("TESSERACT_CMD", "/usr/bin/tesseract")
 
@@ -13,7 +15,7 @@ screenshot_dir = os.path.join(os.path.expanduser("~"), "catkin_ws", "raster_resu
 os.makedirs(screenshot_dir, exist_ok=True)
 
 # Bereich wählen (anpassen!)
-REGION = {"top": 200, "left": 200, "width": 300, "height": 120}
+REGION = {"top": 100, "left": 300, "width": 800, "height": 500}
 
 def ocr_loop():
     with mss.mss() as sct:
