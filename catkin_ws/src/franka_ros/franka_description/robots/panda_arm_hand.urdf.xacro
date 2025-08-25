@@ -14,7 +14,7 @@
 
   <xacro:panda_arm />
   <!-- Sensorhalterung anfang -->
-  <link name="sensor_mount">
+  <link name="sensor_mount"> 
     <visual>
       <geometry>
         <mesh filename="file:///home/hannah_kunze/catkin_ws/src/franka_ros/franka_description/meshes/visual/halterung_panda_gamma_sonde.stl" scale="0.001 0.001 0.001"/>

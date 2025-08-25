@@ -10,7 +10,7 @@ import mss
 # Tesseract: unter Ubuntu meist /usr/bin/tesseract
 pytesseract.pytesseract.tesseract_cmd = os.environ.get("TESSERACT_CMD", "/usr/bin/tesseract")
 
-# Wohin speichern
+# speichern
 screenshot_dir = os.path.join(os.path.expanduser("~"), "catkin_ws", "raster_results", "screenshots")
 os.makedirs(screenshot_dir, exist_ok=True)
 

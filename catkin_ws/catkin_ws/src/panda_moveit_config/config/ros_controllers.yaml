@@ -1,0 +1,32 @@
+# sind allle von mir reingefügt worden, die datei war empty
+# mit moveit über gelenkebene (über MoveGropuCommander)
+
+joint_trajectory_controller:
+    type: position_controllers/JointTrajectoryController
+    joint_names:
+        - panda_joint1
+        - panda_joint2
+        - panda_joint3
+        - panda_joint4
+        - panda_joint5
+        - panda_joint6
+        - panda_joint7
+    trajectory:
+      joint_trajectory_action: true
+      state_publishe_rate: 50
+
+
+
+joint_state_controller:
+    type: joint_state_controller/JointStateController
+    joint_names:
+        - panda_joint1
+        - panda_joint2
+        - panda_joint3
+        - panda_joint4
+        - panda_joint5
+        - panda_joint6
+        - panda_joint7
+
+
+

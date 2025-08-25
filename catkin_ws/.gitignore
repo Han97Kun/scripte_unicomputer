@@ -1,17 +1,13 @@
-# ROS/catkin
-build/
-devel/
-devel_isolated/
-build_isolated/
-install/
-logs/
+build*/
+devel*/
+install*/
+logs*/
 .catkin_tools/
-
-# Editor/OS
+**/__pycache__/
+**/*.pyc
 .vscode/
 .idea/
 .DS_Store
 *.swp
-
-# große Laufzeitdateien
 *.bag
+*.bag.active
