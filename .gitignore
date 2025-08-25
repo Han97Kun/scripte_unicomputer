@@ -1,0 +1,13 @@
+build*/
+devel*/
+install*/
+logs*/
+.catkin_tools/
+**/__pycache__/
+**/*.pyc
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.bag
+*.bag.active

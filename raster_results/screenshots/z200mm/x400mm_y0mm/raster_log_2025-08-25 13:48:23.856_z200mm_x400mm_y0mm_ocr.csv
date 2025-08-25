@@ -1,0 +1,68 @@
+idx,t_iso,elapsed_s,ocr_time,ocr_date,ocr_text,img_path
+1,2025-08-25T13:50:26.320038,0.001,,,"7.
+27150
+:
+220 :
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:26.317_000.png
+2,2025-08-25T13:50:27.311246,1.001,,,"7.
+27150
+220 :
+0
+100
+4
+1
+.
+2 7 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:27.309_001.png
+3,2025-08-25T13:50:28.308589,2.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:28.306_002.png
+4,2025-08-25T13:50:29.311902,3.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:29.309_003.png
+5,2025-08-25T13:50:30.314535,4.001,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:30.312_004.png
+6,2025-08-25T13:50:31.314859,5.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:31.311_005.png
+7,2025-08-25T13:50:32.333620,6.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:32.331_006.png
+8,2025-08-25T13:50:33.309720,7.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:33.307_007.png
+9,2025-08-25T13:50:34.319544,8.004,,,"27150
+220 :
+1
+100
+.
+2 : : . 0
+.",/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z200mm_x400mm_y0mm_2025-08-25 13:50:34.317_008.png

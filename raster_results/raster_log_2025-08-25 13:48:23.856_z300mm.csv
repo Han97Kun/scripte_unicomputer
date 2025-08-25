@@ -1,0 +1,5 @@
+x,y,z,reachable,fraction,radial_distance,t_start,t_end,ocr_series_csv,n_captures
+0.35,0.0,0.3,True,1.0,0.295,2025-08-25 13:50:51.287,2025-08-25 13:51:00.288,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x350mm_y0mm/raster_log_2025-08-25 13:48:23.856_z300mm_x350mm_y0mm_ocr.csv,9
+0.35,0.05,0.3,True,1.0,0.2992,2025-08-25 13:51:01.088,2025-08-25 13:51:10.092,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x350mm_y50mm/raster_log_2025-08-25 13:48:23.856_z300mm_x350mm_y50mm_ocr.csv,9
+0.39999999999999997,0.05,0.3,True,1.0,0.3034,2025-08-25 13:51:11.187,2025-08-25 13:51:20.191,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x400mm_y50mm/raster_log_2025-08-25 13:48:23.856_z300mm_x400mm_y50mm_ocr.csv,9
+0.39999999999999997,0.0,0.3,True,1.0,0.2992,2025-08-25 13:51:21.087,2025-08-25 13:51:30.091,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x400mm_y0mm/raster_log_2025-08-25 13:48:23.856_z300mm_x400mm_y0mm_ocr.csv,9
