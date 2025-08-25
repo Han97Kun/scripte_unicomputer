@@ -11,3 +11,5 @@ logs*/
 *.swp
 *.bag
 *.bag.active
+raster_results/
+catkin_ws/raster_results/
