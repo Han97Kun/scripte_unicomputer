@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:47:59.853698,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-47-59.852_000.png
+2,2025-09-04T14:48:00.359402,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-00.358_001.png
+3,2025-09-04T14:48:00.850477,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-00.849_002.png
+4,2025-09-04T14:48:01.359349,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-01.358_003.png
+5,2025-09-04T14:48:01.857355,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-01.856_004.png
+6,2025-09-04T14:48:02.356310,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-02.355_005.png
+7,2025-09-04T14:48:02.862153,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-02.861_006.png
+8,2025-09-04T14:48:03.358488,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-03.357_007.png
+9,2025-09-04T14:48:03.852995,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-03.852_008.png
+10,2025-09-04T14:48:04.353375,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y60mm_2025-09-04_14-48-04.352_009.png

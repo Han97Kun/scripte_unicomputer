@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:47:42.327578,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-42.326_000.png
+2,2025-09-04T14:47:42.822159,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-42.821_001.png
+3,2025-09-04T14:47:43.316558,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-43.316_002.png
+4,2025-09-04T14:47:43.834985,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-43.834_003.png
+5,2025-09-04T14:47:44.319742,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-44.319_004.png
+6,2025-09-04T14:47:44.822596,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-44.822_005.png
+7,2025-09-04T14:47:45.327803,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-45.326_006.png
+8,2025-09-04T14:47:45.818664,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-45.818_007.png
+9,2025-09-04T14:47:46.320218,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-46.319_008.png
+10,2025-09-04T14:47:46.818662,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x390mm_y60mm/raster_log_2025-09-04 14:46:23.587_z5mm_x390mm_y60mm_2025-09-04_14-47-46.818_009.png

@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:48:29.061011,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-29.060_000.png
+2,2025-09-04T14:48:29.553000,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-29.552_001.png
+3,2025-09-04T14:48:30.054969,1.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-30.054_002.png
+4,2025-09-04T14:48:30.563027,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-30.562_003.png
+5,2025-09-04T14:48:31.055076,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-31.054_004.png
+6,2025-09-04T14:48:31.555078,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-31.554_005.png
+7,2025-09-04T14:48:32.058715,3.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-32.057_006.png
+8,2025-09-04T14:48:32.560273,3.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-32.559_007.png
+9,2025-09-04T14:48:33.055239,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-33.054_008.png
+10,2025-09-04T14:48:33.563873,4.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x430mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x430mm_y20mm_2025-09-04_14-48-33.563_009.png

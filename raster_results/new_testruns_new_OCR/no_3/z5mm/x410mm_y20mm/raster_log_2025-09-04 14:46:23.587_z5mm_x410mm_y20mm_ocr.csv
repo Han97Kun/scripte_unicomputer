@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:48:11.522932,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-11.522_000.png
+2,2025-09-04T14:48:12.024063,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-12.023_001.png
+3,2025-09-04T14:48:12.522709,1.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-12.522_002.png
+4,2025-09-04T14:48:13.015620,1.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-13.015_003.png
+5,2025-09-04T14:48:13.518350,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-13.517_004.png
+6,2025-09-04T14:48:14.016981,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-14.016_005.png
+7,2025-09-04T14:48:14.522618,3.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-14.522_006.png
+8,2025-09-04T14:48:15.019585,3.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-15.019_007.png
+9,2025-09-04T14:48:15.527540,4.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-15.526_008.png
+10,2025-09-04T14:48:16.020200,4.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y20mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y20mm_2025-09-04_14-48-16.019_009.png

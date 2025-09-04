@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:57:48.767451,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-48.766_000.png
+2,2025-09-04T14:57:49.273210,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-49.272_001.png
+3,2025-09-04T14:57:49.768497,1.001,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-49.767_002.png
+4,2025-09-04T14:57:50.268591,1.501,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-50.268_003.png
+5,2025-09-04T14:57:50.770666,2.002,4,4,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-50.770_004.png
+6,2025-09-04T14:57:51.262979,2.501,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-51.262_005.png
+7,2025-09-04T14:57:51.766287,3.002,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-51.765_006.png
+8,2025-09-04T14:57:52.270753,3.502,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-52.270_007.png
+9,2025-09-04T14:57:52.764993,4.001,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-52.764_008.png
+10,2025-09-04T14:57:53.264423,4.502,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x400mm_y50mm/raster_log_2025-09-04 14:56:57.231_z100mm_x400mm_y50mm_2025-09-04_14-57-53.263_009.png

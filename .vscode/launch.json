@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TestMove Launch",
+            "type": "ros",
+            "request": "launch",
+            "target": "/home/rtadmin/catkin_ws/src/franka_ros/franka_example_controllers/launch/test_move.launch"
+        },
+        {
+            "name": "Chkbd Launch",
+            "type": "ros",
+            "request": "launch",
+            "target": "/home/rtadmin/catkin_ws/src/kinect_chkbd_posest/launch/chkbd_pose_estimation.launch"
+        }
+        
+    ]
+}

@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:47:54.017457,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-54.016_000.png
+2,2025-09-04T14:47:54.521993,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-54.521_001.png
+3,2025-09-04T14:47:55.019228,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-55.018_002.png
+4,2025-09-04T14:47:55.525425,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-55.524_003.png
+5,2025-09-04T14:47:56.039375,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-56.038_004.png
+6,2025-09-04T14:47:56.519345,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-56.518_005.png
+7,2025-09-04T14:47:57.017598,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-57.016_006.png
+8,2025-09-04T14:47:57.518490,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-57.517_007.png
+9,2025-09-04T14:47:58.017607,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-58.017_008.png
+10,2025-09-04T14:47:58.521778,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x410mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x410mm_y80mm_2025-09-04_14-47-58.521_009.png

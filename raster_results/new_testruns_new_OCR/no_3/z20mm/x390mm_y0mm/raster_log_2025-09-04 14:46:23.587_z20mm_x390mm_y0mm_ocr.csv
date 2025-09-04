@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:52:25.883430,0.001,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-25.882_000.png
+2,2025-09-04T14:52:26.386950,0.502,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-26.386_001.png
+3,2025-09-04T14:52:26.883889,1.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-26.883_002.png
+4,2025-09-04T14:52:27.384579,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-27.384_003.png
+5,2025-09-04T14:52:27.884278,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-27.883_004.png
+6,2025-09-04T14:52:28.386845,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-28.386_005.png
+7,2025-09-04T14:52:28.887964,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-28.887_006.png
+8,2025-09-04T14:52:29.390467,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-29.389_007.png
+9,2025-09-04T14:52:29.889979,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-29.889_008.png
+10,2025-09-04T14:52:30.384715,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x390mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x390mm_y0mm_2025-09-04_14-52-30.384_009.png

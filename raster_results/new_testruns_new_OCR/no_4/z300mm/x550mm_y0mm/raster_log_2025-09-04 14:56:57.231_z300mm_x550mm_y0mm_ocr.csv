@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T15:04:08.252633,0.001,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-08.251_000.png
+2,2025-09-04T15:04:08.745494,0.5,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-08.744_001.png
+3,2025-09-04T15:04:09.249445,1.001,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-09.248_002.png
+4,2025-09-04T15:04:09.745452,1.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-09.744_003.png
+5,2025-09-04T15:04:10.247016,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-10.246_004.png
+6,2025-09-04T15:04:10.751072,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-10.750_005.png
+7,2025-09-04T15:04:11.246306,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-11.245_006.png
+8,2025-09-04T15:04:11.751062,3.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-11.750_007.png
+9,2025-09-04T15:04:12.251774,4.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-12.251_008.png
+10,2025-09-04T15:04:12.751858,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x550mm_y0mm/raster_log_2025-09-04 14:56:57.231_z300mm_x550mm_y0mm_2025-09-04_15-04-12.751_009.png

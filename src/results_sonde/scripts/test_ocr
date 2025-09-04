@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+
+import os
+from datetime import datetime
+import mss
+from PIL import Image, ImageOps, ImageFilter
+import pytesseract
+import numpy as np
+
+REGION = {"top": 110, "left": 180, "width": 100, "height": 40}
+OUTPUT_DIR = "/home/hannah_kunze/catkin_ws/raster_results"
+SAVE_CAPTURE = True
+DEBUG = True  # speichert bestes Vorverarbeitungsbild
+
+# pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"  # falls nötig
+
+def capture_region(region):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    filename = f"capture_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
+    out_path = os.path.join(OUTPUT_DIR, filename)
+    with mss.mss() as sct:
+        box = {k: int(v) for k, v in region.items()}
+        sct_img = sct.grab(box)
+        img = Image.frombytes("RGB", sct_img.size, sct_img.rgb)
+        if SAVE_CAPTURE:
+            img.save(out_path)
+    return img, out_path
+
+def preprocess_variants(img):
+    g = img.convert("L")
+    g = g.resize((g.width*4, g.height*4), Image.LANCZOS)  # hochskalieren
+    # nur invertierte Varianten (weil dein Kontrast so besser ist)
+    base = ImageOps.invert(g)
+    base = ImageOps.autocontrast(base, cutoff=1)
+    base = base.filter(ImageFilter.UnsharpMask(radius=2, percent=200, threshold=3))
+    thresholds = [140, 160, 180, 200, 220, None]  # None = nur Autokontrast
+    cands = []
+    for th in thresholds:
+        if th is None:
+            cands.append((f"inv_auto", base))
+        else:
+            cands.append((f"inv_{th}", base.point(lambda x, t=th: 255 if x > t else 0).convert("L")))
+    return cands
+
+def ocr_with_conf(image, psm):
+    cfg = f'--oem 3 --psm {psm} -c tessedit_char_whitelist=0123456789'
+    data = pytesseract.image_to_data(image, lang="eng", config=cfg, output_type=pytesseract.Output.DICT)
+    text = pytesseract.image_to_string(image, lang="eng", config=cfg)
+    digits = "".join(ch for ch in text if ch.isdigit())
+    confs = [float(c) for c in data.get("conf", []) if c not in ("-1", -1)]
+    best_conf = max(confs) if confs else -1.0
+    return digits.strip(), best_conf, text.strip()
+
+def main():
+    img, saved_path = capture_region(REGION)
+    print(f"[OK] Screenshot gespeichert: {saved_path}")
+
+    variants = preprocess_variants(img)
+    best = {"digits": "", "conf": -1.0, "tag": "", "img": None, "raw": ""}
+
+    # Für einzelne große Zahl sind 10 (ein Zeichen) und 8 (ein Wort) oft gut
+    for tag, im in variants:
+        for psm in (10, 8, 7, 13):
+            digits, conf, raw = ocr_with_conf(im, psm)
+            if conf > best["conf"] and (digits or raw):
+                best.update({"digits": digits, "conf": conf, "tag": f"{tag}_psm{psm}", "img": im, "raw": raw})
+
+    if best["img"] and DEBUG:
+        dbg_path = os.path.join(OUTPUT_DIR, f"debug_best_{best['tag']}.png")
+        best["img"].save(dbg_path)
+        print(f"[INFO] Bestes Vorverarbeitungsbild gespeichert: {dbg_path}")
+
+    if best["digits"]:
+        print(f"[OCR] erkannte Zahl: {best['digits']}  (Konfidenz ~{best['conf']:.1f}, {best['tag']})")
+    elif best["raw"]:
+        print(f"[OCR] Roh-Text (keine reinen Ziffern): '{best['raw']}'  (Konfidenz ~{best['conf']:.1f}, {best['tag']})")
+    else:
+        print("[OCR] Nichts erkannt.")
+
+if __name__ == "__main__":
+    main()

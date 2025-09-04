@@ -1,0 +1,21 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:19:48.852391,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-48.851_000.png
+2,2025-09-04T14:19:49.340474,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-49.339_001.png
+3,2025-09-04T14:19:49.836627,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-49.836_002.png
+4,2025-09-04T14:19:50.340161,1.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-50.339_003.png
+5,2025-09-04T14:19:50.836575,2.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-50.836_004.png
+6,2025-09-04T14:19:51.337638,2.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-51.337_005.png
+7,2025-09-04T14:19:51.840908,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-51.840_006.png
+8,2025-09-04T14:19:52.340991,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-52.340_007.png
+9,2025-09-04T14:19:52.839315,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-52.838_008.png
+10,2025-09-04T14:19:53.341421,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-53.340_009.png
+11,2025-09-04T14:19:53.843836,5.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-53.843_010.png
+12,2025-09-04T14:19:54.340282,5.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-54.339_011.png
+13,2025-09-04T14:19:54.838981,6.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-54.838_012.png
+14,2025-09-04T14:19:55.338013,6.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-55.337_013.png
+15,2025-09-04T14:19:55.844347,7.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-55.843_014.png
+16,2025-09-04T14:19:56.340688,7.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-56.340_015.png
+17,2025-09-04T14:19:56.841283,8.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-56.840_016.png
+18,2025-09-04T14:19:57.338177,8.5,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-57.337_017.png
+19,2025-09-04T14:19:57.846490,9.001,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-57.846_018.png
+20,2025-09-04T14:19:58.340838,9.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z15mm_x360mm_y40mm_2025-09-04_14-19-58.340_019.png

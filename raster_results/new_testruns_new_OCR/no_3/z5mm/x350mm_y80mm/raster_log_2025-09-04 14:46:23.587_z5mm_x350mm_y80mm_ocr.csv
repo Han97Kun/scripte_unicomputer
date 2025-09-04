@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:46:49.756991,0.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-49.756_000.png
+2,2025-09-04T14:46:50.250794,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-50.250_001.png
+3,2025-09-04T14:46:50.751976,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-50.751_002.png
+4,2025-09-04T14:46:51.250817,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-51.250_003.png
+5,2025-09-04T14:46:51.751552,2.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-51.750_004.png
+6,2025-09-04T14:46:52.251569,2.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-52.250_005.png
+7,2025-09-04T14:46:52.748562,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-52.748_006.png
+8,2025-09-04T14:46:53.252928,3.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-53.252_007.png
+9,2025-09-04T14:46:53.758572,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-53.757_008.png
+10,2025-09-04T14:46:54.251556,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y80mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y80mm_2025-09-04_14-46-54.251_009.png

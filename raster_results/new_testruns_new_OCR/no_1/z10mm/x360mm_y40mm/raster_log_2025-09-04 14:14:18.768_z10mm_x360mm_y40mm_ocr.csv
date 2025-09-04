@@ -1,0 +1,21 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:15:15.490231,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-15.489_000.png
+2,2025-09-04T14:15:15.978941,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-15.978_001.png
+3,2025-09-04T14:15:16.481277,1.003,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-16.480_002.png
+4,2025-09-04T14:15:16.981590,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-16.981_003.png
+5,2025-09-04T14:15:17.482004,2.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-17.481_004.png
+6,2025-09-04T14:15:17.988919,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-17.988_005.png
+7,2025-09-04T14:15:18.481544,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-18.481_006.png
+8,2025-09-04T14:15:18.996339,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-18.995_007.png
+9,2025-09-04T14:15:19.478176,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-19.477_008.png
+10,2025-09-04T14:15:19.979248,4.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-19.978_009.png
+11,2025-09-04T14:15:20.489509,5.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-20.488_010.png
+12,2025-09-04T14:15:20.988488,5.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-20.987_011.png
+13,2025-09-04T14:15:21.480578,6.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-21.480_012.png
+14,2025-09-04T14:15:21.982347,6.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-21.981_013.png
+15,2025-09-04T14:15:22.484308,7.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-22.483_014.png
+16,2025-09-04T14:15:22.987552,7.501,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-22.987_015.png
+17,2025-09-04T14:15:23.478740,8.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-23.478_016.png
+18,2025-09-04T14:15:23.982355,8.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-23.981_017.png
+19,2025-09-04T14:15:24.481743,9.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-24.481_018.png
+20,2025-09-04T14:15:24.981642,9.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x360mm_y40mm/raster_log_2025-09-04 14:14:18.768_z10mm_x360mm_y40mm_2025-09-04_14-15-24.981_019.png

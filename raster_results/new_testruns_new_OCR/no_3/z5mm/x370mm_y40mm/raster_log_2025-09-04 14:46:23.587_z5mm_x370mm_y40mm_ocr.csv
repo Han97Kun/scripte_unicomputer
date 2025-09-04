@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:47:07.286119,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-07.285_000.png
+2,2025-09-04T14:47:07.784781,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-07.784_001.png
+3,2025-09-04T14:47:08.282902,1.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-08.282_002.png
+4,2025-09-04T14:47:08.792749,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-08.792_003.png
+5,2025-09-04T14:47:09.283806,2.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-09.283_004.png
+6,2025-09-04T14:47:09.785256,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-09.784_005.png
+7,2025-09-04T14:47:10.297878,3.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-10.297_006.png
+8,2025-09-04T14:47:10.791736,3.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-10.790_007.png
+9,2025-09-04T14:47:11.285270,4.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-11.284_008.png
+10,2025-09-04T14:47:11.787740,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x370mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x370mm_y40mm_2025-09-04_14-47-11.787_009.png

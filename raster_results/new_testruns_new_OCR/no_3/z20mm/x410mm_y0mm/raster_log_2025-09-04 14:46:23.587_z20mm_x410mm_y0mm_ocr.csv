@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:53:18.419641,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-18.419_000.png
+2,2025-09-04T14:53:18.920634,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-18.920_001.png
+3,2025-09-04T14:53:19.421840,1.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-19.421_002.png
+4,2025-09-04T14:53:19.924255,1.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-19.923_003.png
+5,2025-09-04T14:53:20.420995,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-20.420_004.png
+6,2025-09-04T14:53:20.921153,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-20.920_005.png
+7,2025-09-04T14:53:21.422982,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-21.422_006.png
+8,2025-09-04T14:53:21.917139,3.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-21.916_007.png
+9,2025-09-04T14:53:22.416591,4.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-22.416_008.png
+10,2025-09-04T14:53:22.919187,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z20mm/x410mm_y0mm/raster_log_2025-09-04 14:46:23.587_z20mm_x410mm_y0mm_2025-09-04_14-53-22.918_009.png

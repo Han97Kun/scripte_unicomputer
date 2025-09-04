@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:46:38.024802,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-38.023_000.png
+2,2025-09-04T14:46:38.522429,0.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-38.521_001.png
+3,2025-09-04T14:46:39.017975,1.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-39.017_002.png
+4,2025-09-04T14:46:39.529708,1.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-39.529_003.png
+5,2025-09-04T14:46:40.015663,2.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-40.014_004.png
+6,2025-09-04T14:46:40.516078,2.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-40.515_005.png
+7,2025-09-04T14:46:41.020438,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-41.019_006.png
+8,2025-09-04T14:46:41.531699,3.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-41.531_007.png
+9,2025-09-04T14:46:42.022409,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-42.021_008.png
+10,2025-09-04T14:46:42.516448,4.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z5mm/x350mm_y40mm/raster_log_2025-09-04 14:46:23.587_z5mm_x350mm_y40mm_2025-09-04_14-46-42.515_009.png

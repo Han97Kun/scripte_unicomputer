@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:49:48.289147,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-48.288_000.png
+2,2025-09-04T14:49:48.790036,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-48.789_001.png
+3,2025-09-04T14:49:49.287082,1.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-49.286_002.png
+4,2025-09-04T14:49:49.784361,1.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-49.783_003.png
+5,2025-09-04T14:49:50.288176,2.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-50.287_004.png
+6,2025-09-04T14:49:50.786075,2.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-50.785_005.png
+7,2025-09-04T14:49:51.286731,3.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-51.286_006.png
+8,2025-09-04T14:49:51.785707,3.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-51.785_007.png
+9,2025-09-04T14:49:52.284919,4.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-52.284_008.png
+10,2025-09-04T14:49:52.799455,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z10mm/x370mm_y0mm/raster_log_2025-09-04 14:46:23.587_z10mm_x370mm_y0mm_2025-09-04_14-49-52.798_009.png

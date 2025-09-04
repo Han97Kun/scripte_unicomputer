@@ -1,0 +1,21 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-04T14:22:40.041504,0.001,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-40.040_000.png
+2,2025-09-04T14:22:40.554775,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-40.554_001.png
+3,2025-09-04T14:22:41.040318,1.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-41.039_002.png
+4,2025-09-04T14:22:41.543007,1.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-41.542_003.png
+5,2025-09-04T14:22:42.049381,2.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-42.048_004.png
+6,2025-09-04T14:22:42.540564,2.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-42.539_005.png
+7,2025-09-04T14:22:43.037044,3.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-43.036_006.png
+8,2025-09-04T14:22:43.540546,3.5,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-43.540_007.png
+9,2025-09-04T14:22:44.040726,4.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-44.040_008.png
+10,2025-09-04T14:22:44.540519,4.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-44.540_009.png
+11,2025-09-04T14:22:45.038221,5.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-45.037_010.png
+12,2025-09-04T14:22:45.537685,5.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-45.537_011.png
+13,2025-09-04T14:22:46.044127,6.001,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-46.043_012.png
+14,2025-09-04T14:22:46.542553,6.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-46.542_013.png
+15,2025-09-04T14:22:47.046990,7.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-47.046_014.png
+16,2025-09-04T14:22:47.539925,7.501,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-47.539_015.png
+17,2025-09-04T14:22:48.039581,8.002,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-48.039_016.png
+18,2025-09-04T14:22:48.542464,8.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-48.541_017.png
+19,2025-09-04T14:22:49.041596,9.0,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-49.041_018.png
+20,2025-09-04T14:22:49.538230,9.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z15mm/x390mm_y10mm/raster_log_2025-09-04 14:14:18.768_z15mm_x390mm_y10mm_2025-09-04_14-22-49.537_019.png
