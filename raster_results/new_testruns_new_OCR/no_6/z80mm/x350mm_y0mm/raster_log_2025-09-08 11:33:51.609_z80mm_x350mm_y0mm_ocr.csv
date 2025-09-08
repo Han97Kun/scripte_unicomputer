@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:37:11.229334,0.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-11.228_000.png
+2,2025-09-08T11:37:11.730078,0.5,9,9,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-11.729_001.png
+3,2025-09-08T11:37:12.237016,1.002,56,56,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-12.236_002.png
+4,2025-09-08T11:37:12.731087,1.501,57,57,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-12.730_003.png
+5,2025-09-08T11:37:13.233448,2.002,55,55,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-13.232_004.png
+6,2025-09-08T11:37:13.729675,2.5,63,63,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-13.729_005.png
+7,2025-09-08T11:37:14.231204,3.001,59,59,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-14.230_006.png
+8,2025-09-08T11:37:14.737074,3.502,65,65,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-14.736_007.png
+9,2025-09-08T11:37:15.236242,4.002,71,71,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-15.235_008.png
+10,2025-09-08T11:37:15.730878,4.502,66,66,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y0mm_2025-09-08_11-37-15.730_009.png

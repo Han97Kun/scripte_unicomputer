@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:44:50.767568,0.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-50.767_000.png
+2,2025-09-08T11:44:51.271919,0.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-51.271_001.png
+3,2025-09-08T11:44:51.770578,1.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-51.770_002.png
+4,2025-09-08T11:44:52.270954,1.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-52.270_003.png
+5,2025-09-08T11:44:52.770551,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-52.770_004.png
+6,2025-09-08T11:44:53.273217,2.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-53.272_005.png
+7,2025-09-08T11:44:53.766047,3.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-53.765_006.png
+8,2025-09-08T11:44:54.266812,3.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-54.266_007.png
+9,2025-09-08T11:44:54.766363,4.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-54.765_008.png
+10,2025-09-08T11:44:55.272295,4.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z200mm/x500mm_y150mm/raster_log_2025-09-08 11:41:57.047_z200mm_x500mm_y150mm_2025-09-08_11-44-55.271_009.png

@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:34:24.555335,0.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-24.554_000.png
+2,2025-09-08T11:34:25.049688,0.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-25.049_001.png
+3,2025-09-08T11:34:25.549085,1.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-25.548_002.png
+4,2025-09-08T11:34:26.048727,1.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-26.047_003.png
+5,2025-09-08T11:34:26.551190,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-26.550_004.png
+6,2025-09-08T11:34:27.053391,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-27.052_005.png
+7,2025-09-08T11:34:27.553831,3.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-27.553_006.png
+8,2025-09-08T11:34:28.060014,3.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-28.059_007.png
+9,2025-09-08T11:34:28.547880,4.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-28.547_008.png
+10,2025-09-08T11:34:29.048149,4.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y100mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y100mm_2025-09-08_11-34-29.047_009.png

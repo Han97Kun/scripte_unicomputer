@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:36:20.694818,0.001,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-20.694_000.png
+2,2025-09-08T11:36:21.189137,0.502,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-21.188_001.png
+3,2025-09-08T11:36:21.690248,1.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-21.689_002.png
+4,2025-09-08T11:36:22.187371,1.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-22.186_003.png
+5,2025-09-08T11:36:22.688170,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-22.687_004.png
+6,2025-09-08T11:36:23.189562,2.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-23.189_005.png
+7,2025-09-08T11:36:23.691287,3.002,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-23.690_006.png
+8,2025-09-08T11:36:24.192792,3.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-24.192_007.png
+9,2025-09-08T11:36:24.692919,4.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-24.692_008.png
+10,2025-09-08T11:36:25.186473,4.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x450mm_y0mm_2025-09-08_11-36-25.185_009.png

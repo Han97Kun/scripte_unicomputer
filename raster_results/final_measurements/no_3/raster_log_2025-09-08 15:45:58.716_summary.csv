@@ -1,0 +1,2 @@
+z,attempt,points_total,points_reached,reach_fraction,delta,raster_size,auto_success,started_at,finished_at,csv_path
+0.002,1,36,36,1.0,0.001,6,True,2025-09-08 15:46:00.718,2025-09-08 15:51:36.758,/home/hannah_kunze/catkin_ws/raster_results/raster_log_2025-09-08 15:45:58.716_z2mm.csv

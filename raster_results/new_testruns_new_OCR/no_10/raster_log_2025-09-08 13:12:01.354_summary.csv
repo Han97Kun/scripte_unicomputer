@@ -1,0 +1,4 @@
+z,attempt,points_total,points_reached,reach_fraction,delta,raster_size,auto_success,started_at,finished_at,csv_path
+0.005,1,16,16,1.0,0.01,4,True,2025-09-08 13:12:03.355,2025-09-08 13:14:22.593,/home/hannah_kunze/catkin_ws/raster_results/raster_log_2025-09-08 13:12:01.354_z5mm.csv
+0.01,1,16,16,1.0,0.01,4,True,2025-09-08 13:14:25.514,2025-09-08 13:16:45.060,/home/hannah_kunze/catkin_ws/raster_results/raster_log_2025-09-08 13:12:01.354_z10mm.csv
+0.015,1,16,16,1.0,0.01,4,True,2025-09-08 13:17:28.057,2025-09-08 13:19:47.758,/home/hannah_kunze/catkin_ws/raster_results/raster_log_2025-09-08 13:12:01.354_z15mm.csv

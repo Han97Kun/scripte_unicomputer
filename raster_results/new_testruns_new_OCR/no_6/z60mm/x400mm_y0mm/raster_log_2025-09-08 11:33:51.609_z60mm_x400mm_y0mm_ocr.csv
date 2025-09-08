@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:36:14.698784,0.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-14.698_000.png
+2,2025-09-08T11:36:15.205876,0.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-15.205_001.png
+3,2025-09-08T11:36:15.709390,1.002,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-15.708_002.png
+4,2025-09-08T11:36:16.197770,1.501,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-16.197_003.png
+5,2025-09-08T11:36:16.697445,2.002,4,4,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-16.696_004.png
+6,2025-09-08T11:36:17.201243,2.501,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-17.200_005.png
+7,2025-09-08T11:36:17.700461,3.002,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-17.699_006.png
+8,2025-09-08T11:36:18.202032,3.5,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-18.201_007.png
+9,2025-09-08T11:36:18.697719,4.001,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-18.697_008.png
+10,2025-09-08T11:36:19.199532,4.502,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z60mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z60mm_x400mm_y0mm_2025-09-08_11-36-19.199_009.png

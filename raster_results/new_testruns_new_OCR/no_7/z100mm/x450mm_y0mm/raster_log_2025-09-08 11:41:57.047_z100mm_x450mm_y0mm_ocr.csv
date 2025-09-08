@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:42:48.655340,0.001,13,13,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-48.654_000.png
+2,2025-09-08T11:42:49.162434,0.502,125,125,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-49.161_001.png
+3,2025-09-08T11:42:49.659747,1.002,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-49.659_002.png
+4,2025-09-08T11:42:50.158904,1.502,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-50.158_003.png
+5,2025-09-08T11:42:50.657059,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-50.656_004.png
+6,2025-09-08T11:42:51.166740,2.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-51.166_005.png
+7,2025-09-08T11:42:51.657313,3.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-51.656_006.png
+8,2025-09-08T11:42:52.162961,3.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-52.162_007.png
+9,2025-09-08T11:42:52.656956,4.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-52.656_008.png
+10,2025-09-08T11:42:53.171946,4.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z100mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z100mm_x450mm_y0mm_2025-09-08_11-42-53.171_009.png

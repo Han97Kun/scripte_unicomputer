@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:34:42.292628,0.0,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-42.292_000.png
+2,2025-09-08T11:34:42.786920,0.5,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-42.786_001.png
+3,2025-09-08T11:34:43.290352,1.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-43.289_002.png
+4,2025-09-08T11:34:43.791515,1.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-43.790_003.png
+5,2025-09-08T11:34:44.294379,2.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-44.293_004.png
+6,2025-09-08T11:34:44.787563,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-44.787_005.png
+7,2025-09-08T11:34:45.284059,3.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-45.283_006.png
+8,2025-09-08T11:34:45.788347,3.504,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-45.787_007.png
+9,2025-09-08T11:34:46.287329,4.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-46.286_008.png
+10,2025-09-08T11:34:46.789530,4.502,0,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y0mm_2025-09-08_11-34-46.789_009.png

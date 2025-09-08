@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:35:23.425782,0.0,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-23.425_000.png
+2,2025-09-08T11:35:23.929613,0.502,o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-23.929_001.png
+3,2025-09-08T11:35:24.428131,1.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-24.427_002.png
+4,2025-09-08T11:35:24.923999,1.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-24.923_003.png
+5,2025-09-08T11:35:25.428656,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-25.428_004.png
+6,2025-09-08T11:35:25.925539,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-25.925_005.png
+7,2025-09-08T11:35:26.422763,3.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-26.422_006.png
+8,2025-09-08T11:35:26.927626,3.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-26.927_007.png
+9,2025-09-08T11:35:27.429956,4.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-27.429_008.png
+10,2025-09-08T11:35:27.922698,4.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x500mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x500mm_y0mm_2025-09-08_11-35-27.921_009.png

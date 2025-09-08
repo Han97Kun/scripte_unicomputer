@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:46:05.943789,0.001,5,5,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-05.943_000.png
+2,2025-09-08T11:46:06.443134,0.501,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-06.442_001.png
+3,2025-09-08T11:46:06.939054,1.0,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-06.938_002.png
+4,2025-09-08T11:46:07.438828,1.5,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-07.438_003.png
+5,2025-09-08T11:46:07.942132,2.002,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-07.941_004.png
+6,2025-09-08T11:46:08.440971,2.501,3,3,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-08.440_005.png
+7,2025-09-08T11:46:08.941655,3.0,2,2,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-08.941_006.png
+8,2025-09-08T11:46:09.449483,3.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-09.448_007.png
+9,2025-09-08T11:46:09.940818,4.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-09.940_008.png
+10,2025-09-08T11:46:10.446663,4.502,1,1,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z300mm/x450mm_y0mm/raster_log_2025-09-08 11:41:57.047_z300mm_x450mm_y0mm_2025-09-08_11-46-10.446_009.png

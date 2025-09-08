@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:37:17.126548,0.0,59,59,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-17.125_000.png
+2,2025-09-08T11:37:17.625178,0.5,53,53,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-17.624_001.png
+3,2025-09-08T11:37:18.126629,1.002,33,33,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-18.126_002.png
+4,2025-09-08T11:37:18.627029,1.501,8,8,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-18.626_003.png
+5,2025-09-08T11:37:19.128718,2.001,8,8,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-19.128_004.png
+6,2025-09-08T11:37:19.631135,2.502,10,10,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-19.630_005.png
+7,2025-09-08T11:37:20.128855,3.002,6,6,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-20.128_006.png
+8,2025-09-08T11:37:20.627520,3.502,8,8,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-20.627_007.png
+9,2025-09-08T11:37:21.126012,4.002,11,11,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-21.125_008.png
+10,2025-09-08T11:37:21.625495,4.502,14,14,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x350mm_y50mm/raster_log_2025-09-08 11:33:51.609_z80mm_x350mm_y50mm_2025-09-08_11-37-21.625_009.png

@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:34:48.137316,0.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-48.136_000.png
+2,2025-09-08T11:34:48.635742,0.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-48.635_001.png
+3,2025-09-08T11:34:49.135139,1.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-49.134_002.png
+4,2025-09-08T11:34:49.635633,1.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-49.635_003.png
+5,2025-09-08T11:34:50.134998,2.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-50.134_004.png
+6,2025-09-08T11:34:50.638410,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-50.637_005.png
+7,2025-09-08T11:34:51.135421,3.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-51.134_006.png
+8,2025-09-08T11:34:51.635400,3.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-51.634_007.png
+9,2025-09-08T11:34:52.135620,4.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-52.135_008.png
+10,2025-09-08T11:34:52.634377,4.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y50mm/raster_log_2025-09-08 11:33:51.609_z40mm_x450mm_y50mm_2025-09-08_11-34-52.633_009.png

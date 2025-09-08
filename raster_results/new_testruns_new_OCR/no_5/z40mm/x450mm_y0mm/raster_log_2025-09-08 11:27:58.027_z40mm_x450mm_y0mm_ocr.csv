@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:28:56.134750,0.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-56.134_000.png
+2,2025-09-08T11:28:56.631717,0.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-56.630_001.png
+3,2025-09-08T11:28:57.137074,1.001,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-57.136_002.png
+4,2025-09-08T11:28:57.630205,1.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-57.629_003.png
+5,2025-09-08T11:28:58.131030,2.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-58.130_004.png
+6,2025-09-08T11:28:58.629499,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-58.629_005.png
+7,2025-09-08T11:28:59.132705,3.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-59.132_006.png
+8,2025-09-08T11:28:59.636154,3.501,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-28-59.635_007.png
+9,2025-09-08T11:29:00.135476,4.002,oo,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-29-00.135_008.png
+10,2025-09-08T11:29:00.629442,4.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x450mm_y0mm/raster_log_2025-09-08 11:27:58.027_z40mm_x450mm_y0mm_2025-09-08_11-29-00.628_009.png

@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:37:58.854338,0.0,11,11,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-37-58.853_000.png
+2,2025-09-08T11:37:59.359528,0.501,9,9,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-37-59.358_001.png
+3,2025-09-08T11:37:59.853427,1.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-37-59.852_002.png
+4,2025-09-08T11:38:00.367314,1.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-00.366_003.png
+5,2025-09-08T11:38:00.854916,2.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-00.854_004.png
+6,2025-09-08T11:38:01.359120,2.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-01.358_005.png
+7,2025-09-08T11:38:01.859139,3.002,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-01.858_006.png
+8,2025-09-08T11:38:02.354428,3.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-02.353_007.png
+9,2025-09-08T11:38:02.854524,4.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-02.854_008.png
+10,2025-09-08T11:38:03.360528,4.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z80mm/x450mm_y0mm/raster_log_2025-09-08 11:33:51.609_z80mm_x450mm_y0mm_2025-09-08_11-38-03.360_009.png

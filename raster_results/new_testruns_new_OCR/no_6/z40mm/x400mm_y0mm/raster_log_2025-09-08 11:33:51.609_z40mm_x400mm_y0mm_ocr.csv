@@ -1,0 +1,11 @@
+idx,t_iso,elapsed_s,ocr_text,extracted_number,img_path
+1,2025-09-08T11:34:36.281367,0.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-36.280_000.png
+2,2025-09-08T11:34:36.795046,0.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-36.794_001.png
+3,2025-09-08T11:34:37.287610,1.001,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-37.287_002.png
+4,2025-09-08T11:34:37.784344,1.501,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-37.783_003.png
+5,2025-09-08T11:34:38.289348,2.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-38.288_004.png
+6,2025-09-08T11:34:38.785122,2.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-38.784_005.png
+7,2025-09-08T11:34:39.280696,3.0,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-39.280_006.png
+8,2025-09-08T11:34:39.785756,3.502,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-39.785_007.png
+9,2025-09-08T11:34:40.283692,4.0,0,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-40.283_008.png
+10,2025-09-08T11:34:40.783375,4.5,0o,0,/home/hannah_kunze/catkin_ws/raster_results/screenshots/z40mm/x400mm_y0mm/raster_log_2025-09-08 11:33:51.609_z40mm_x400mm_y0mm_2025-09-08_11-34-40.782_009.png
