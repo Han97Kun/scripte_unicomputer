@@ -5,3 +5,21 @@ log/
 *.pyc
 __pycache__/
 
+
+# --- Ignore build artifacts ---
+build*/
+devel*/
+install*/
+logs*/
+.catkin_tools/
+
+# --- Python caches, editor junk ---
+**/__pycache__/
+**/*.pyc
+.vscode/
+.idea/
+
+# --- Only track CSVs under raster_results ---
+raster_results/**
+!raster_results/
+!raster_results/**/*.csv
