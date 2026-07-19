@@ -12,7 +12,7 @@ from datetime import date, datetime
 
 # TODO
 # nicht jeden tag die gleiche aktivitä, kann ich das anpassen 
-
+# luft massenschwächung
 
 
 # -------------------------------
@@ -36,7 +36,7 @@ activity_Bq_today = activity_decay(A0_Bq, t_elapsed_days, T12_days)
 # Modellkonstanten (C2=0 fix)
 # -------------------------------
 constants = {
-    "mu": 0.19,
+    "mu": 0.17,
     "rho": 0.001225,
     "activity_Bq": activity_Bq_today,
     "probe_surface": 1.131,  # cm^2 (Einheitenkonsistenz beachten)
@@ -89,7 +89,7 @@ def compute_g(sources, probes, orientations, constants):
 # -------------------------------
 HOME = os.path.expanduser("~")
 RESULTS_DIR = os.environ.get("RESULTS_DIR", os.path.join(HOME, "catkin_ws", "raster_results", "Ergebnisse"))
-OCR_INTERVAL_S_DEFAULT = float(os.environ.get("OCR_INTERVAL_S", "0.333"))  # ~3 Hz default
+OCR_INTERVAL_S_DEFAULT = float(os.environ.get("OCR_INTERVAL_S", "0.5"))  # ~3 Hz default
 
 def _f(s):
     """float-parser mit Dezimal-Komma-Toleranz."""
